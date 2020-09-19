@@ -1,0 +1,26 @@
+{
+  "name": "@ngdevelop/rating",
+  "version": "0.0.1",
+  "author": {
+      "name": "Ankit Prajapati",
+      "url": "https://github.com/ngdevelop-tech/"
+  },
+  "license": "MIT",
+  "bugs": {
+      "url": ""
+  },
+  "repository": {
+      "type": "git",
+      "url": ""
+  },
+  "keywords": [
+  ],
+  "homepage": "",
+  "peerDependencies": {
+    "@angular/common": "^10.0.14",
+    "@angular/core": "^10.0.14"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  }
+}
